@@ -1,4 +1,4 @@
 # apna-codes
-This is my First Git Repos......y
+This is my First Git Repository
 <br >
-Author- Aniket Prakash
+Author- Aniket Prakash (apna codes)
